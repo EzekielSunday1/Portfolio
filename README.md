@@ -13,7 +13,7 @@ Welcome to my project portfolio. Here you will find links to various projects I 
 - **Technologies**: SQL, Statistical Analysis.
 
 ## Tools Used
-- MS Excel for Data Cleaning and visualization [Download here](https://microsoft.com)
-- SQL Server for Data Manipulation [Download here](https://microsoft.com)
+- MS Excel for Data Cleaning and Visualization [Download here](https://microsoft.com)
+- SQL Server for Data Manipulation and Exploration [Download here](https://microsoft.com)
 
 ...
